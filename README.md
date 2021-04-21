@@ -3,7 +3,9 @@
   <h2 align="center" > Full Stack | Back End | Front End </h2>
   <p align="center">
   I'm currently studying in a Bootcamp in order to be a Fullstack Developer.
+  <p align="center">
   B.Sc. Computer Science graduate.
+  </p>
   </p>
 </p>
  
