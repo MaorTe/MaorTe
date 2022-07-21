@@ -19,6 +19,7 @@
 <code><img height="27" src="https://images.velog.io/images/woohm402/post/f50d9e7b-910a-4db8-963b-ba19fff6bc78/emblem-light-628080660fddb35787ff6c77e97ca43e.svg" alt="react-query"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/reduxjs/redux/master/logo/logo.png" alt="redux"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="nodejs"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="expressjs"></code>
 <code><img height="27" src="https://github.com/mongodb-js/leaf/blob/master/dist/mongodb-leaf_128x128.png?raw=true" alt="mongodb"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="expressjs"></code>
+<code><img height="27" src="https://cdn.icon-icons.com/icons2/2389/PNG/512/socket_io_logo_icon_144874.png" alt="mongodb"></code>
 </p>
