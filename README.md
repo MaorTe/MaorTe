@@ -2,7 +2,7 @@
   <img height="200" src="https://i.pinimg.com/originals/d3/01/fd/d301fdc8f718cc4e956c6456eb2af1ee.gif" alt="img"/>
   <h2 align="center" > Full Stack | Backend | Frontend </h2>
   <p align="center">
-  Full Stack Web Developer Bootcamp graduate.
+  Full Stack Developer Bootcamp graduate.
   <p align="center">
   B.Sc. Computer Science graduate.
   </p>
