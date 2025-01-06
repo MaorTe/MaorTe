@@ -24,80 +24,56 @@
 </p>
 # 👨‍💻 Maor Tene
 
-### Full-Stack Developer | Passionate about crafting efficient, scalable, and elegant solutions
+### Full-Stack Developer | Backend Enthusiast | Tech Explorer
 
-🚀 **Building innovative solutions, one line of code at a time.** With a strong foundation in backend systems, real-time applications, and microservices, I thrive in creating seamless user experiences and robust architectures. Whether it's a RESTful API, a dynamic frontend, or optimizing database queries, I’m ready to tackle any challenge.
-
----
-
-## 📌 About Me
-
-- 🌍 **Location:** Israel
-- 🎓 **Education:** Practical Engineer & B.Sc. in Computer Science
-- 🎯 **Currently Focused On:** Kubernetes, Kafka, Redis, and Backend Systems
-- 🌟 **Hobbies:** Salsa dancing, sports, and self-development
+🚀 Passionate about building efficient, scalable, and elegant solutions for modern web and backend applications.
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Skills & Tools
 
-| Frontend     | Backend        | Tools & Platforms    | Other Skills      |
-|--------------|----------------|----------------------|-------------------|
-| HTML5        | Node.js        | Docker               | REST APIs         |
-| CSS3         | Express.js     | Kubernetes           | Microservices     |
-| JavaScript   | MongoDB        | Git & GitHub         | WebSockets        |
-| React.js     | MySQL          | AWS                  | Redis             |
-| TypeScript   | DynamoDB       | RabbitMQ / Kafka     | Testing & Debugging |
-
----
-
-## 💼 Featured Projects
-
-### 🎥 [Movies Web App](https://github.com/MaorTe/Movies_Web_App)
-**Description:** A React-based movie database application integrating TMDB API for search and watchlist features.  
-**Features:** Infinite scrolling, responsive design, and a sleek UI.  
-**Tech Used:** React, Redux, Node.js, TMDB API, CSS Modules.
-
-### 📅 [Dynamic Calendar](https://github.com/MaorTe/dynamic-calendar)
-**Description:** A full-stack calendar app with drag & drop functionality and real-time updates using WebSockets.  
-**Features:** Event creation, resizing, color-coded categories.  
-**Tech Used:** MERN Stack, Socket.io.
-
-### 🖥️ [Portfolio Website](https://github.com/MaorTe/Portfolio)
-**Description:** A personal website showcasing my skills, projects, and blog posts.  
-**Features:** Fully responsive, minimalistic design.  
-**Tech Used:** HTML5, CSS3, JavaScript.
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat&logo=redis&logoColor=white)
+![Kafka](https://img.shields.io/badge/-Kafka-231F20?style=flat&logo=apache-kafka)
 
 ---
 
-## 🔍 What I'm Learning
+## 🌟 Projects
 
-- 🌐 **Next.js:** To enhance SSR and SSG capabilities for React apps.
-- ☁️ **Cloud Computing:** Diving deeper into AWS services for scalable deployments.
-- 📊 **Distributed Systems:** Exploring advanced patterns with Kafka and RabbitMQ.
+- **[Movies Web App](https://github.com/MaorTe/Movies_Web_App)**  
+  React-based movie search and watchlist app using TMDB API.  
+  *Tech:* React, Redux, Node.js
+
+- **[Dynamic Calendar](https://github.com/MaorTe/dynamic-calendar)**  
+  Full-stack calendar with real-time updates and drag-and-drop.  
+  *Tech:* MERN, Socket.io
+
+- **[Portfolio Website](https://github.com/MaorTe/Portfolio)**  
+  A responsive portfolio showcasing my skills and projects.  
+  *Tech:* HTML, CSS, JavaScript
 
 ---
 
-## 📊 GitHub Stats
+## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MaorTe&show_icons=true&theme=github_dark" alt="GitHub stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=MaorTe&theme=github-dark-blue" alt="GitHub streak">
+  <img src="https://github-readme-stats.vercel.app/api?username=MaorTe&show_icons=true&theme=radical" alt="Maor's GitHub stats">
 </p>
 
 ---
 
 ## 📬 Contact Me
 
-💬 Feel free to reach out! I'm always open to collaborating on new projects or discussing exciting ideas.
-
-- **📧 Email:** [maor@example.com](mailto:maor@example.com)
-- **💼 LinkedIn:** [linkedin.com/in/maor-tene](https://www.linkedin.com/in/maor-tene/)
-- **🌐 Portfolio:** [maor-portfolio.com](https://maor-portfolio.com)
+- **Email:** [maor@example.com](mailto:maor@example.com)  
+- **LinkedIn:** [linkedin.com/in/maor-tene](https://www.linkedin.com/in/maor-tene/)  
+- **Portfolio:** [maor-portfolio.com](https://maor-portfolio.com)
 
 ---
 
-## ⚡ Fun Fact
-
-When I'm not coding, you can find me on the dance floor mastering my salsa moves or enjoying a good game of basketball! 🕺🏀
-
+✨ *Let’s create something amazing together!*
