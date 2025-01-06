@@ -22,64 +22,82 @@
 <code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="expressjs"></code>
 <code><img height="27" src="https://cdn.icon-icons.com/icons2/2389/PNG/512/socket_io_logo_icon_144874.png" alt="mongodb"></code>
 </p>
+# 👨‍💻 Maor Tene
 
-<h1 align="center">Hi there! 👋 I'm Maor Tene</h1>
-<h3 align="center">A passionate Full Stack Developer from Israel</h3>
+### Full-Stack Developer | Passionate about crafting efficient, scalable, and elegant solutions
+
+🚀 **Building innovative solutions, one line of code at a time.** With a strong foundation in backend systems, real-time applications, and microservices, I thrive in creating seamless user experiences and robust architectures. Whether it's a RESTful API, a dynamic frontend, or optimizing database queries, I’m ready to tackle any challenge.
+
+---
+
+## 📌 About Me
+
+- 🌍 **Location:** Israel
+- 🎓 **Education:** Practical Engineer & B.Sc. in Computer Science
+- 🎯 **Currently Focused On:** Kubernetes, Kafka, Redis, and Backend Systems
+- 🌟 **Hobbies:** Salsa dancing, sports, and self-development
+
+---
+
+## 🛠️ Tech Stack
+
+| Frontend     | Backend        | Tools & Platforms    | Other Skills      |
+|--------------|----------------|----------------------|-------------------|
+| HTML5        | Node.js        | Docker               | REST APIs         |
+| CSS3         | Express.js     | Kubernetes           | Microservices     |
+| JavaScript   | MongoDB        | Git & GitHub         | WebSockets        |
+| React.js     | MySQL          | AWS                  | Redis             |
+| TypeScript   | DynamoDB       | RabbitMQ / Kafka     | Testing & Debugging |
+
+---
+
+## 💼 Featured Projects
+
+### 🎥 [Movies Web App](https://github.com/MaorTe/Movies_Web_App)
+**Description:** A React-based movie database application integrating TMDB API for search and watchlist features.  
+**Features:** Infinite scrolling, responsive design, and a sleek UI.  
+**Tech Used:** React, Redux, Node.js, TMDB API, CSS Modules.
+
+### 📅 [Dynamic Calendar](https://github.com/MaorTe/dynamic-calendar)
+**Description:** A full-stack calendar app with drag & drop functionality and real-time updates using WebSockets.  
+**Features:** Event creation, resizing, color-coded categories.  
+**Tech Used:** MERN Stack, Socket.io.
+
+### 🖥️ [Portfolio Website](https://github.com/MaorTe/Portfolio)
+**Description:** A personal website showcasing my skills, projects, and blog posts.  
+**Features:** Fully responsive, minimalistic design.  
+**Tech Used:** HTML5, CSS3, JavaScript.
+
+---
+
+## 🔍 What I'm Learning
+
+- 🌐 **Next.js:** To enhance SSR and SSG capabilities for React apps.
+- ☁️ **Cloud Computing:** Diving deeper into AWS services for scalable deployments.
+- 📊 **Distributed Systems:** Exploring advanced patterns with Kafka and RabbitMQ.
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/maor-tene/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:maor@example.com"><img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://maor-portfolio.com"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"></a>
+  <img src="https://github-readme-stats.vercel.app/api?username=MaorTe&show_icons=true&theme=github_dark" alt="GitHub stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=MaorTe&theme=github-dark-blue" alt="GitHub streak">
 </p>
 
 ---
 
-### 🛠️ Technologies & Tools
+## 📬 Contact Me
 
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+💬 Feel free to reach out! I'm always open to collaborating on new projects or discussing exciting ideas.
+
+- **📧 Email:** [maor@example.com](mailto:maor@example.com)
+- **💼 LinkedIn:** [linkedin.com/in/maor-tene](https://www.linkedin.com/in/maor-tene/)
+- **🌐 Portfolio:** [maor-portfolio.com](https://maor-portfolio.com)
 
 ---
 
-### 📈 GitHub Stats
+## ⚡ Fun Fact
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MaorTe&show_icons=true&theme=radical" alt="Maor's GitHub stats">
-</p>
-
----
-
-### 🚀 Featured Projects
-
-- **[Movies Web App](https://github.com/MaorTe/Movies_Web_App)**  
-  React application with search, watchlist, infinite pagination, and integration with the TMDB API. [Live Demo](https://movies-web-app.example.com)
-
-- **[Dynamic Calendar](https://github.com/MaorTe/dynamic-calendar)**  
-  Full-stack MERN application featuring drag & drop, resize, color coding, and real-time updates using Socket.io. [Live Demo](https://dynamic-calendar.example.com)
-
-- **[Portfolio Website](https://github.com/MaorTe/Portfolio)**  
-  Personal portfolio showcasing projects and skills, built with HTML, CSS, and JavaScript. [Live Site](https://maor-portfolio.com)
-
----
-
-### 🌱 Currently Learning
-
-- Advanced TypeScript Patterns
-- Next.js Framework
-- Cloud Deployment with AWS
-
----
-
-### 💬 Let's Connect!
-
-I'm always open to discussing new projects, creative ideas, or opportunities to be part of your visions. Feel free to reach out through [LinkedIn](https://www.linkedin.com/in/maor-tene/) or [email](mailto:maor@example.com).
+When I'm not coding, you can find me on the dance floor mastering my salsa moves or enjoying a good game of basketball! 🕺🏀
 
