@@ -42,6 +42,9 @@
 
 ---
 ## 🌟 Projects
+- **[Realm Of Strategos](https://github.com/MaorTe/Realm-of-Strategos)**  
+  Scalable, event-driven backend for real-time multiplayer strategy games, featuring skill-based matchmaking, session management, and WebSocket-based communication.
+  *Tech:* Node.js, TypeScript, PostgreSQL, Redis, RabbitMQ, WebSockets
 
 - **[Movies Web App](https://github.com/MaorTe/Movies_Web_App)**  
   React-based movie search and watchlist app using TMDB API.  
@@ -51,7 +54,4 @@
   Full-stack calendar with real-time updates and drag-and-drop.  
   *Tech:* MERN, Socket.io
 
-- **[Portfolio Website](https://github.com/MaorTe/Portfolio)**  
-  A responsive portfolio showcasing my skills and projects.  
-  *Tech:* HTML, CSS, JavaScript
 ---
